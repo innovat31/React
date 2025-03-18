@@ -29,7 +29,8 @@ export default function Counter() {
   );
 }
 
-// second one
+// different part
+// this time more features added
 
 import { BrowserRouter as Router, Route, Routes, Link } from "react-router-dom";
 import { Card, CardContent } from "@/components/ui/card";
